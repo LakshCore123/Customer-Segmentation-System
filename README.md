@@ -197,9 +197,7 @@ and place it in the project directory.
 
 **Lakshya Mittal**
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
+- GitHub: https://github.com/LakshCore123
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
