@@ -141,7 +141,7 @@ The project automatically generates:
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Customer-Segmentation-System.git
+git clone https://github.com/LakshCore123/Customer-Segmentation-System.git
 ```
 
 Go to the project folder
