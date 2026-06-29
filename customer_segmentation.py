@@ -1,14 +1,3 @@
-"""
-Customer Segmentation System - Online Retail Dataset
-====================================================
-Production-ready customer segmentation using RFM analysis and K-Means clustering.
-Suitable for GitHub, internships, and placement portfolios.
-
-Author: Your Name
-Date: 2024
-Version: 1.0.0
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
